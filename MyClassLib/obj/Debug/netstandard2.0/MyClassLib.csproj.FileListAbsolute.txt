@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Day7\MyClassLib\bin\Debug\netstandard2.0\MyClassLib.deps.json
+C:\Users\User\source\repos\Day7\MyClassLib\bin\Debug\netstandard2.0\MyClassLib.dll
+C:\Users\User\source\repos\Day7\MyClassLib\bin\Debug\netstandard2.0\MyClassLib.pdb
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.AssemblyInfo.cs
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.dll
+C:\Users\User\source\repos\Day7\MyClassLib\obj\Debug\netstandard2.0\MyClassLib.pdb
